@@ -1,0 +1,34 @@
+{
+    "name": "bot_manager",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "api.ai": "^1.0.3",
+        "body-parser": "^1.18.3",
+        "cors": "^2.8.5",
+        "elastic-apm-node": "^1.12.0",
+        "express": "^4.16.4",
+        "fuzzy-string-matching": "*",
+        "google-oauth-jwt": "^0.2.0",
+        "http": "*",
+        "https": "*",
+        "jslint": "^0.12.0",
+        "moment": "*",
+        "mon": "0.0.8",
+        "mongoimport": "^1.0.6",
+        "mongoose": "^5.3.14",
+        "natural": "^0.6.2",
+        "path": "*",
+        "randomatic": "^3.1.1",
+        "response": "^0.18.0",
+        "socket.io": "^2.2.0",
+        "xlsx-populate": "^1.17.0"
+    },
+    "engines": {
+        "node": "8.*",
+        "npm": "6.*"
+    }
+}

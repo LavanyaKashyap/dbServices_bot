@@ -1,0 +1,50 @@
+{
+    "emailHost": "cdoEmailNotification.bdt.kpit.com",
+
+    "emailEndPoint": "/api/mail",
+
+    "emailHeaders": {
+        "Content-Type": "application/json"
+    },
+
+    "apiHost": "api.dialogflow.com",
+
+    "getUtternacesEndpoint": "/v1/intents/",
+
+    "mongoConnectionProd": "mongodb://chatbotuser:Ikidtkspet123@10.10.74.43:27017/Prod_ChatBot_Database",
+
+    "mongoConnectionDev": "mongodb://devuser1:devuser1@10.10.74.43:27017/NDBkMDVkNGEtYjA3ZS00NTdmLWI1ZjAtZWQxZGE4Nz",
+
+    "mongoConnectionDev1": "mongodb://ChatBot_Prod_User:Dmtusydbsp%40123@itmongo-qry01:27017/ChatBot_ProdDB",
+
+    "mongoConnectionDev2": "mongodb://ChatBot_Prod_User:Dmtusydbsp%40123@prd-mongoqry.kpit.com:27017/ChatBot_ProdDB",
+
+    "DEVsearchAppsFromESHost": "pre-prod-myworld-services.appuat.kpit.com",
+
+    "PRODsearchAppsFromESHost": "myworld-services.bdt.kpit.com",
+
+    "searchAppsFromESEndpoint": "/searchApps",
+
+    "PREPRODHost": "pre-prod-myworld-common-services.appuat.kpit.com",
+
+    "PRODhost": "myworld-common-services.bdt.kpit.com",
+
+    "UserInfoServiceEndpoint": "/getPersonalDetails",
+
+    "UploadIntentIntoDialogFlowServiceCallHOST": "dialogflow.googleapis.com",
+
+    "key": "MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoHWx5RxlZiMq8\npe0z368lBGuQdcFZpWH+1+DzOau+maKn93ecetO4okzueIEkk75MQnWJtcfdQISC\nY9j2OdrrKy5PKlTIqbpxXRph0tjCdczO8c1TpKDGh/rSF1mR9FMvpQ5x48F5nbML\nQcfwDhmfi7+rq4RfNTNgL17iyaaiuzkAPNxiPeN/4212Z2UcLWU0E3xzl5DUgRNP\n/WL6DiDZaiydLspdN0sc6oabM7RHwBbpJNbv9fPP4szI5Sm4WIqo4DJqoNsLfX51\nawVPaNuJRC5k9GHklOeuL4K+xQ2LTWGQy2REpLz45WHmRiv8kX6oxMJY/ipkt0Z8\naS+SJWJlAgMBAAECgf8WoLujPpD7T6Un8BJaKRahMr0LMN9Q1I8X4eoLTzgGwfID\nRfSpBjE7T+34ko1qO3rlPhVAD3H/pMUWnE/+7TQDQ493t3RpXeZJknoBgiEoClNE\nUUYqWwxNZWGcbPRftqSZIRg6dXxFW/S1rq63I/NgMq5YrdIjzwOEhPXAJbKCgAgi\nhYIkFj9xsr3BN4nC96P+yMN/0fBqbw3LLsoZI1bxlIgB+DQQCMguHNfhLCMQQjmJ\nzSuIgtaBTp4dUVS1nxdxygLfatWq4fkSRNk+jeHg89ukMLGPScVobZn1gnvzM+nj\ncVicy1sJDJrtCvgtnzMkUClFZBsJN5o3BEGsnSECgYEA0W377uaGI9vd6Ofkrdey\nVAp5MYTw58i96X+aQlrmkqMku2nW4Y9Nol5qfo2aggEHu+jbGYEXlOujXfLWWcLs\nzfeZkS86w6KXYAR5GXaZDmWDKUeWD/uYvYS/ytzaxyKd1aWGYii+Iwf2X6GGGuOO\nQ8fm+4kFsRJ1SG0HaHpmmsUCgYEAzX+N//ouAKr2UbD+9qJ1zrXyaouVq/jbkUBW\nh3xBeadUV/m31ZLOfGg6n2nvja/McuVtFL5XMf5mQFhHX46IlWlGNm9VQeJajnyH\n5V5My7C0cPOQ+jFABAqoEA/Y/AQfZgdEJqcyQI+DGEgxhQsGbr3UQWdziYnFEPpr\nVYLgoyECgYBrFmkXPIrktR1gZYr6FWwbKwvTdV3Vt0Dcr6HKQj7aRk+XAUSeK6+P\n0eV0dqXFyg8RV70I6oiLXn43oN9YIKMDopLEuTi8Jlxu/XqKuakDwoZxyigCXi04\n4zNK4OmBn8LDJxNzB9BJi13AgpBXGXp6UDJc9jCR3ZVZBl8eXlAu3QKBgQCu+R71\niBXHZ8pYAHb3lZjtqyp/4d5NEZYS9U84CWrOpNVCG1SWO2wpra3MsqzQXZGdexAI\nC5G+9bgmrYQILxrI7VxlWSKk+JDWpd4oRMTq4sihLCKThX/WcSRsmLHO08vQWfuD\nVfWJ1yhucnoHqD2P6X5jOiy8PVxYeoENzGRtQQKBgQDO39ze2k3aPKuEYU2FOVJe\nSVHJXN4ga8XKBhP75ZeJABwGrQKV3Z5yk/tWC79MVBqDngFaERo5JEJSsZ/TkTxs\nSAuUS1OoU4IHpf8KDH4KcjUZkKEt4ow8MOle1TgUZCNYh21q1mf2JnyUWKhk797k\nnx4NrZkj+xeTvBXtGTkF9Q==\n-----END PRIVATE KEY-----",
+
+    "UploadIntentIntoDialogFlowServiceCallPATH": "/v2beta1/projects/*project*/agent/intents",
+
+    "BingSpellCheckHost": "api.cognitive.microsoft.com",
+
+    "BingSpellCheckEndpoint": "/bing/v7.0/SpellCheck",
+
+    "BingSpellCheckMode": "proof",
+
+    "BingSpellCheckHeaders": {
+        "Ocp-Apim-Subscription-Key": "7018109affc7450088835f1c03b7257c"
+
+    }
+}
