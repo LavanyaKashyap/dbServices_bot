@@ -94,6 +94,9 @@ app.use(function(err, req, res, next) {
 
 //------------GET SERVICES
 app.get('/getActiveBot', botRoute.getActiveBotDetails);
+app.get('/' , (req,res)=>{
+    res.send('Hello');
+})
 //-----POST services
 app.post("/getCapabilities", CapabilityRoute.getCapability);
 app.post("/getRoomAvailabilityForUser", UserRoute.getRoomAvailabilityForUser);
